@@ -12,7 +12,8 @@
     "test:unit": "better-npm-run test:unit",
     "test:regression": "better-npm-run test:regression",
     "test:smoke": "better-npm-run test:smoke",
-    "prepublish": "npm run compile"
+    "prepublish": "npm run compile",
+    "lint": "eslint ./src"
   },
   "betterScripts": {
     "start:prod": {
