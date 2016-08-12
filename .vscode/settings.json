@@ -1,0 +1,5 @@
+{
+  // Disabled due to lack of ES7 support.
+  // Relying on ESLint.
+  "javascript.validate.enable": false
+}
